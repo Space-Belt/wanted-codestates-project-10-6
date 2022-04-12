@@ -77,7 +77,8 @@
 <details>
   <summary>우혁주</summary>
     <ul>
-      <li> </li>
+      <li>옵션선택 확인 후 다음 페이지</li>
+      <li>선택 옵션들 확인, 핸드폰 번호 입력페이지</li>
     </ul>
 </details>
 <details>
