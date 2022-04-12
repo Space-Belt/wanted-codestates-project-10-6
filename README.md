@@ -4,10 +4,10 @@
 
 ### 📎 &nbsp; [과제링크]()
 
-<div align="center">
+<!-- <div align="center">
 <img width="300px" src=""/>
 </div>
-
+ -->
 <br />
 
 ### 😎 &nbsp; 문제 설명
